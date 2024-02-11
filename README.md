@@ -46,11 +46,13 @@
 <ol>
     <li>Clone the repository.</li>
     <li>Open the project files to explore our portfolio, find inspiration, and discover resources to help with your own design projects.</li>
+</ol>
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have ideas for improving our interior design project or would like to share your own work, please feel free to contribute. Here's how you can help:</p>
 <ol>
     <li>Fork the repository.</li>
     <li>Make your changes and submit a pull request.</li>
+</ol>
 <h2>Contact</h2>
 <p>If you have any questions or inquiries, feel free to contact us at rsivassangari08@gmail.com.</p>
 <hr>
